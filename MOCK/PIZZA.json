@@ -1,0 +1,190 @@
+{
+  "name": "Quadro Pizza",
+  "type": "PIZZA",
+  "group_by": "ltm_anuncio",
+  "filters": {
+    "advanced_filters": {
+      "type": "leads",
+      "rule": "less_than",
+      "value": "1000"
+    }
+  },
+  "analyzed": ["leads", "registers", "sales"],
+  "last_hour": {
+    "leads": 1340,
+    "registers": 960,
+    "sales": 1086
+  },
+  "last_day": {
+    "hours": [
+      {
+        "1": {
+          "leads": 73,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "2": {
+          "leads": 89,
+          "registers": 76,
+          "sales": 36
+        }
+      },
+      {
+        "3": {
+          "leads": 45,
+          "registers": 32,
+          "sales": 78
+        }
+      },
+      {
+        "4": {
+          "leads": 56,
+          "registers": 28,
+          "sales": 32
+        }
+      },
+      {
+        "5": {
+          "leads": 10,
+          "registers": 77,
+          "sales": 100
+        }
+      },
+      {
+        "6": {
+          "leads": 100,
+          "registers": 12,
+          "sales": 25
+        }
+      },
+      {
+        "7": {
+          "leads": 35,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "8": {
+          "leads": 100,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "9": {
+          "leads": 35,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "10": {
+          "leads": 100,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "11": {
+          "leads": 35,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "12": {
+          "leads": 20,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "13": {
+          "leads": 35,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "14": {
+          "leads": 10,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "15": {
+          "leads": 47,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "16": {
+          "leads": 90,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "17": {
+          "leads": 40,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "18": {
+          "leads": 100,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "19": {
+          "leads": 32,
+          "registers": 28,
+          "sales": 56
+        }
+      },
+      {
+        "20": {
+          "leads": 50,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "21": {
+          "leads": 65,
+          "registers": 28,
+          "sales": 56
+        }
+      },
+      {
+        "22": {
+          "leads": 27,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "23": {
+          "leads": 43,
+          "registers": 52,
+          "sales": 36
+        }
+      },
+      {
+        "24": {
+          "leads": 100,
+          "registers": 52,
+          "sales": 36
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Quadro tabela",
+  "type": "BESTDATA",
+  "group_by": "utm_source",
+  "data_type": "Custo Por Lead",
+  "filters": {
+    "order": "desc",
+    "advanced_filters": {
+      "type": "leads",
+      "rule": "bigger_then",
+      "value": "0"
+    }
+  },
+  "table": {
+    "Cadastro": 111,
+    "Registro": 222,
+    "Alguma Coisa": 333
+  }
+}

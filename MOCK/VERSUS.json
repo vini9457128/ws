@@ -1,0 +1,15 @@
+{
+  "name": "Quadro Versus",
+  "type": "VERSUS",
+  "data_type": "Lançamento atual",
+  "analyzed": {
+    "Leads": {
+      "value": 3614,
+      "comparative": -1
+    },
+    "Registros": {
+      "value": 8600,
+      "comparative": 4.5
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Quadro Top 3",
+  "type": "TOP3",
+  "group_by": "utm_source",
+  "data_type": "taxa de conversão",
+  "filters": {
+    "order": "desc",
+    "advanced_filters": {
+      "type": "leads",
+      "rule": "less_than",
+      "value": "1000"
+    }
+  },
+  "pages": [
+    {
+      "name": "Página de vendas",
+      "url": "www.lb.estrategica...vendas-a",
+      "value": 1,
+      "percentage": 1
+    },
+    {
+      "name": "Outra página",
+      "url": "www.leadtracker.com.br",
+      "value": 0,
+      "percentage": 0
+    },
+    {
+      "name": "Mais uma página",
+      "url": "www.google.com",
+      "value": 99,
+      "percentage": 99
+    }
+  ]
+}
